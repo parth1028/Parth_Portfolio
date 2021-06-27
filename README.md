@@ -27,7 +27,7 @@
 * Applied all the steps like data cleaning and checked for null values in dataset.
 * Used seaborn and matplotlib for visulaization.
 * Many diiferent findings were achieved from the dataset as wether wage decreases or increases due to some variable.
-* Checked the Relationship Between two different variables and what are the impacts on the data.
+* Checked the Relationship between two different variables and what are the impacts on the data.
 
 # [Project 5: Bank Maven Data](https://github.com/parth1028/Projects)
 * Used Tableau for analysing the data, used modelling technique to improve the data and the aim was to find the customer performance from the dataset.
