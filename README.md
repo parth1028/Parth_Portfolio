@@ -33,3 +33,13 @@
 * Used Tableau for analysing the data, used modelling technique to improve the data and the aim was to find the customer performance from the dataset.
 * Performed various calculations and filtering on the data to find the accurate values for easy understanding.
 * All the findings were collectively displayed on the dashboard for better understanding.
+
+
+# [Project 6: Visulaization Of COVID-19 Data](https://github.com/parth1028/Projects)
+* Used different graphs to understand the data.
+* Exact no of cases confirmed and how many people died were found with the help of these data.
+* Used the map function for detailed information. 
+
+
+
+
