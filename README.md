@@ -23,4 +23,13 @@
 * Different Regression Alogorithms as well as SVM and cross validation alogrithms were used to determine the accuracy of model of dataset.
 
 
+# [Project 4: Analysis On Fifa 19](https://github.com/parth1028/Projects)
+* Applied all the steps like data cleaning and checked for null values in dataset.
+* Used seaborn and matplotlib for visulaization.
+* Many diiferent findings were achieved from the dataset as wether wage decreases or increases due to some variable.
+* Checked the Relationship Between two different variables and what are the impacts on the data.
 
+# [Project 5: Bank Maven Data](https://github.com/parth1028/Projects)
+* Used Tableau for analysing the data, used modelling technique to improve the data and the aim was to find the customer performance from the dataset.
+* Performed various calculations and filtering on the data to find the accurate values for easy understanding.
+* All the findings were collectively displayed on the dashboard for better understanding.
